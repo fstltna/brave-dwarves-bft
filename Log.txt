@@ -1,0 +1,287 @@
+Log started: 05/17/2023 23:00 
+Working directory: I:\Incoming Games\Brave Dwarves Back For Treasures\Log.txt
+Version 1.40
+Command line: 
+Graphics::Init( 800,600,16 )
+Fullscreen = 1
+VRAM Free:1597364736 Used:11200000
+
+Init input devices...
+Loading animation Bullets\BT_SKULL.ini from 'Bullets\'
+Surface name 'Surface'(19ad78)
+Surface name 'Surface' - loading complete
+Loading animation Bullets\BT_WEB.ini from 'Bullets\'
+Surface name 'Surface'(19ebb8)
+Surface name 'Surface' - loading complete
+Loading animation Bullets\BT_WAVE.ini from 'Bullets\'
+Surface name 'Surface'(19f0f8)
+Surface name 'Surface' - loading complete
+Loading animation Bullets\BT_BIG_BOLT.ini from 'Bullets\'
+Surface name 'Surface'(19f4f8)
+Surface name 'Surface' - loading complete
+Loading animation Bullets\BT_LIQUID_FIRE.ini from 'Bullets\'
+Surface name 'Surface'(19f8f8)
+Surface name 'Surface' - loading complete
+Loading animation Bullets\BT_SEEK_STAR.ini from 'Bullets\'
+Surface name 'Surf1'(19fcf8)
+Surface name 'Surf1' - loading complete
+Surface name 'Surf2'(1a00f8)
+Surface name 'Surf2' - loading complete
+Surface name 'Surf3'(1a04f8)
+Surface name 'Surf3' - loading complete
+Surface name 'Surf4'(1a08f8)
+Surface name 'Surf4' - loading complete
+Surface name 'Surf5'(1a0cf8)
+Surface name 'Surf5' - loading complete
+Surface name 'Surf6'(1a10f8)
+Surface name 'Surf6' - loading complete
+Surface name 'Surf7'(1a14f8)
+Surface name 'Surf7' - loading complete
+Surface name 'Surf8'(1fb1920)
+Surface name 'Surf8' - loading complete
+Loading animation Bullets\BT_FIRE_SICKLE.ini from 'Bullets\'
+Surface name 'Surface'(1fb1c88)
+Surface name 'Surface' - loading complete
+Loading animation Bullets\BT_STONE_SHEILD.ini from 'Bullets\'
+Surface name 'Surface'(21b048)
+Surface name 'Surface' - loading complete
+Loading animation Bullets\BT_EARTH_PIN.ini from 'Bullets\'
+Surface name 'Surface'(1fb4568)
+Surface name 'Surface' - loading complete
+Loading animation Bullets\BT_BALL_LIGHTNING.ini from 'Bullets\'
+Surface name 'Surface'(21cc10)
+Surface name 'Surface' - loading complete
+Loading animation Bullets\BT_ICICLE.ini from 'Bullets\'
+Surface name 'Surface'(1fc8c60)
+Surface name 'Surface' - loading complete
+Loading animation Bullets\BT_STARSHIELD.ini from 'Bullets\'
+Surface name 'Surface'(1fc9060)
+Surface name 'Surface' - loading complete
+Loading animation Bullets\BT_STARSHIELD.ini from 'Bullets\'
+Surface name 'Surface'(21d310)
+Surface name 'Surface' - loading complete
+Loading animation Bullets\BT_FIREWORK.ini from 'Bullets\'
+Surface name 'Surface'(21d710)
+Surface name 'Surface' - loading complete
+Loading animation Bullets\BT_SMALLBOULDER.ini from 'Bullets\'
+Surface name 'Surface'(21db10)
+Surface name 'Surface' - loading complete
+Loading animation Bullets\BT_SMALLSNOW.ini from 'Bullets\'
+Loading animation Bullets\BT_BIGBOULDER.ini from 'Bullets\'
+Surface name 'Surface'(21df10)
+Surface name 'Surface' - loading complete
+Loading animation Bullets\BT_BIGBOULDER.ini from 'Bullets\'
+Surface name 'Surface'(21e038)
+Surface name 'Surface' - loading complete
+Loading animation Bullets\BT_BIGBOULDER2.ini from 'Bullets\'
+Loading animation Bullets\BT_TORNADO.ini from 'Bullets\'
+Surface name 'Surface'(21e1f8)
+Surface name 'Surface' - loading complete
+Loading animation Bullets\BT_CHARGE.ini from 'Bullets\'
+Surface name 'Surface'(21e320)
+Surface name 'Surface' - loading complete
+Loading animation Bullets\BT_CHARGE.ini from 'Bullets\'
+Surface name 'Surface'(21e3b8)
+Surface name 'Surface' - loading complete
+Loading animation Bullets\BT_LIGHTNING.ini from 'Bullets\'
+Surface name 'Surface'(2014760)
+Surface name 'Surface' - loading complete
+Loading animation Bullets\BT_STAKE.ini from 'Bullets\'
+Surface name 'Surface'(21e720)
+Surface name 'Surface' - loading complete
+Loading animation Bullets\BT_FIREBALL.ini from 'Bullets\'
+Surface name 'Surface'(2016740)
+Surface name 'Surface' - loading complete
+Loading animation Bullets\BT_WATER_ARROW.ini from 'Bullets\'
+Surface name 'Surface'(2016868)
+Surface name 'Surface' - loading complete
+Loading animation Bullets\BT_SKELBONE.ini from 'Bullets\'
+Surface name 'Surface'(21ecc8)
+Surface name 'Surface' - loading complete
+Loading animation Bullets\BT_CRAWLER_FIRE.ini from 'Bullets\'
+Surface name 'Surface'(21f030)
+Surface name 'Surface' - loading complete
+Loading animation Bullets\BT_BALL_LIGHTNING_S.ini from 'Bullets\'
+Surface name 'Surface'(21fdb0)
+Surface name 'Surface' - loading complete
+Loading animation Bullets\BT_BIG_BOLT_S.ini from 'Bullets\'
+Surface name 'Surface'(3249370)
+Surface name 'Surface' - loading complete
+Loading FramesHolder - 'panel.frm'
+Loading FramesHolder - 'fonts.frm'
+Loading FramesHolder - 'weapanel.frm'
+BASS_Init, code is 1
+Loading sound:  walk one from sound\walk_r.ogg
+Loading sound:  walk two from sound\walk_l.ogg
+Loading sound:  climb from sound\climb.ogg
+Loading sound:  clock from sound\clock.ogg
+Loading sound:  whip from sound\whip.ogg
+Loading sound:  thunder from sound\thunder.ogg
+Loading sound:  diamond 1 from sound\bluegem.ogg
+Loading sound:  diamond 2 from sound\purplegem.ogg
+Loading sound:  diamond 3 from sound\greengem.ogg
+Loading sound:  gold chest from sound\goldchest.ogg
+Loading sound:  seek star from sound\seekstar.ogg
+Loading sound:  burn from sound\burn.ogg
+Loading sound:  water splash from sound\watersplash.ogg
+Loading sound:  star shield from sound\starshield.ogg
+Loading sound:  fire sickle from sound\firesickle.ogg
+Loading sound:  lift creak rev from sound\liftcreakrev.ogg
+Loading sound:  lift creak from sound\liftcreak.ogg
+Loading sound:  open exit door from sound\exitdoor.ogg
+Loading sound:  key pickup from sound\keypickup.ogg
+Loading sound:  skel throw from sound\skel_throw.ogg
+Loading sound:  skel born from sound\skeleton_born.ogg
+Loading sound:  crawler fire from sound\crawler_fire.ogg
+Loading sound:  btmagic from sound\bt_magic.ogg
+Loading sound:  axe from sound\axe.ogg
+Loading sound:  fire ball from sound\fireball.ogg
+Loading sound:  water arrow from sound\waterarrow.ogg
+Loading sound:  charge from sound\charge.ogg
+Loading sound:  boulder fire from sound\boulder_start.ogg
+Loading sound:  boulder blow from sound\boulder_blow.ogg
+Loading sound:  tornado from sound\tornado.ogg
+Loading sound:  icicle from sound\icicle.ogg
+Loading sound:  hammer from sound\hammer.ogg
+Loading sound:  health from sound\bottle.ogg
+Loading sound:  menu move from sound\menu_click.ogg
+Loading sound:  menu click from sound\scroll.ogg
+Loading sound:  hero death from sound\heart.ogg
+Loading sound:  bat launch from sound\bat.ogg
+Loading sound:  worm born from sound\worm_born.ogg
+Loading sound:  crawler born from sound\worm_born.ogg
+Loading sound:  boss 1 fire from sound\crawler_fire.ogg
+Loading sound:  boss 2 fire from sound\crawler_fire.ogg
+Loading sound:  boss 3 fire from sound\crawler_fire.ogg
+Loading sound:  boss 4 fire from sound\crawler_fire.ogg
+Loading sound:  boss 5 fire from sound\crawler_fire.ogg
+Loading sound:  boss 3 teleport from sound\teleport.ogg
+Loading sound:  boss 4 teleport from sound\teleport.ogg
+Loading sound:  boss 5 teleport from sound\teleport.ogg
+Loading sound:  heart from sound\heart.ogg
+Loading sound:  scroll from sound\scroll.ogg
+Loading sound:  shield from sound\goldencoins.ogg
+Loading sound:  helmet from sound\goldencoins.ogg
+Loading sound:  orb from sound\orb.ogg
+Loading sound:  gameover from sound\teleport.ogg
+Loading sound:  score item from sound\goldencoins.ogg
+Loading music  - music\b_dstrm.mo3
+Loading music  - music\b_highw.mo3
+Loading music  - music\3dgnom16.mo3
+Loading music  - music\3dgnom12.mo3
+Loading music  - music\b_halo.mo3
+Loading music  - music\b_invsbl.mo3
+Loading music  - music\b_strght.mo3
+Loading music  - music\fl4.mo3
+Call MenuScreen::OnDisplay()
+Call MenuScreen::InitSurface()
+Loading from 'pics\menu.jpg'  (341e280)
+VRAM Free:1596404736 Used:12160000
+Loading from 'pics\menu.jpg'  (341e3a8)
+VRAM Free:1595444736 Used:13120000
+Loading from 'pics\title.jpg'  (341e4d0)
+VRAM Free:1594484736 Used:14080000
+Loading from 'pics\helpscroll.bmp'  (341e5f8)
+VRAM Free:1593812736 Used:14752000
+Loading from 'pics\select1.bmp'  (341e720)
+VRAM Free:1593572736 Used:14992000
+Loading from 'pics\select2.bmp'  (3f7a390)
+VRAM Free:1593332736 Used:15232000
+Loading animation Items\ArrowLeft.anm from 'Items\'
+Surface name 'Surface'(402c770)
+Surface name 'Surface' - loading complete
+Loading animation Items\ArrowRight.anm from 'Items\'
+Surface name 'Surface'(3fa74d8)
+Surface name 'Surface' - loading complete
+Loading animation Creatures\Gnome1\creature.ini from 'Creatures\Gnome1\'
+Surface name 'GO'(3fa78d8)
+Surface name 'GO' - loading complete
+Surface name 'FLY'(3fa7cd8)
+Surface name 'FLY' - loading complete
+Surface name 'FF'(3fa80d8)
+Surface name 'FF' - loading complete
+Surface name 'CLIMB'(3fa84d8)
+Surface name 'CLIMB' - loading complete
+Surface name 'DROP'(3fa88d8)
+Surface name 'DROP' - loading complete
+Surface name 'HIT'(3fa8cd8)
+Surface name 'HIT' - loading complete
+Surface name 'STOP'(3fa90d8)
+Surface name 'STOP' - loading complete
+Loading animation Creatures\Gnome2\creature.ini from 'Creatures\Gnome2\'
+Surface name 'GO'(3fa94d8)
+Surface name 'GO' - loading complete
+Surface name 'FLY'(3fa98d8)
+Surface name 'FLY' - loading complete
+Surface name 'CLIMB'(3fa9cd8)
+Surface name 'CLIMB' - loading complete
+Surface name 'DROP'(3faa0d8)
+Surface name 'DROP' - loading complete
+Surface name 'HIT'(3faa4d8)
+Surface name 'HIT' - loading complete
+Surface name 'STOP'(3faa8d8)
+Surface name 'STOP' - loading complete
+Loading animation Creatures\boss_spider\creature.ini from 'Creatures\boss_spider\'
+Surface name 'GO'(3faacd8)
+Surface name 'GO' - loading complete
+Surface name 'SHOOT'(3fab0d8)
+Surface name 'SHOOT' - loading complete
+Surface name 'DIE'(3fab4d8)
+Surface name 'DIE' - loading complete
+Loading animation Creatures\boss_worm\creature.ini from 'Creatures\boss_worm\'
+Surface name 'GO'(3fab8d8)
+Surface name 'GO' - loading complete
+Surface name 'HIT'(3fabcd8)
+Surface name 'HIT' - loading complete
+Surface name 'DIE'(3fac0d8)
+Surface name 'DIE' - loading complete
+Loading animation Creatures\boss_mino\creature.ini from 'Creatures\boss_mino\'
+Surface name 'ST'(3fac4d8)
+Surface name 'ST' - loading complete
+Surface name 'DOWN'(3fac8d8)
+Surface name 'DOWN' - loading complete
+Surface name 'HIT'(3faccd8)
+Surface name 'HIT' - loading complete
+Surface name 'DIE'(3fad0d8)
+Surface name 'DIE' - loading complete
+Surface name 'GO'(3fad4d8)
+Surface name 'GO' - loading complete
+Loading animation Creatures\fire_elemental\creature.ini from 'Creatures\fire_elemental\'
+Surface name 'GO'(3fad8d8)
+Surface name 'GO' - loading complete
+Surface name 'DROP'(3fadcd8)
+Surface name 'DROP' - loading complete
+Surface name 'HIT'(3fae0d8)
+Surface name 'HIT' - loading complete
+Surface name 'STOP'(4038e90)
+Surface name 'STOP' - loading complete
+Loading animation Creatures\lich\creature.ini from 'Creatures\lich\'
+Surface name 'GO'(4039290)
+Surface name 'GO' - loading complete
+Surface name 'JG'(4039690)
+Surface name 'JG' - loading complete
+Surface name 'DROP'(4039a90)
+Surface name 'DROP' - loading complete
+Surface name 'HIT'(4039c50)
+Surface name 'HIT' - loading complete
+Surface name 'DIE'(3fae958)
+Surface name 'DIE' - loading complete
+Screen switched to MenuScreen
+
+Call PostScreen::OnDisplay()
+Call PostScreen::InitSurface()
+Screen switched to PostScreen
+
+Config saved
+Release surfaces
+Release surfaces
+Release surfaces
+Release surfaces
+Release surfaces
+Release surfaces
+Release surfaces
+Release surfaces
+Release surfaces
+Release surfaces
+Release surfaces
+Release surfaces
